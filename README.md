@@ -1,6 +1,6 @@
 # Next JS Weather App
 
-Hello! Welcome to the documentation of my recent project, a weather app built using Next JS and styled completely with Tailwind CSS. As I venture into the world of Next JS, I find it extremely beneficial to apply my knowledge through practical projects. This weather app is one such endeavor.
+Hello! Welcome to the documentation of my recent project, a weather app built using Next JS and styled completely with Tailwind CSS. As I venture into the world of Next JS, I find it extremely beneficial to apply my knowledge through practical projects.
 
 ## Description
 
